@@ -5,7 +5,7 @@
 * 📊  I did my M.Sc. in Statistical Sciences at University of Padova, Italy.
 <br>
 
-* 🍕  I like hiking, summer and pizza ! 
+* 🍕  I like hiking, summer and pizza! 
   
 <!--
 **billila/billila** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
