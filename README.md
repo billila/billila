@@ -1,6 +1,6 @@
 #### Hi, I'm Ilaria 👋
 
-* 🎓  I am doing my PhD in Bioinformatics at [Romualdi Lab](https://romualdi.bio.unipd.it/), University of Padova, Italy.
+* 🎓  I'm doing a PhD in Bioinformatics at [Romualdi Lab](https://romualdi.bio.unipd.it/), University of Padova, Italy.
 * 🗽  I'm a visiting PhD Student at [Waldron Lab](https://github.com/waldronlab), CUNY, New York City.
 * 📊  I did my M.Sc. in Statistical Sciences at University of Padova, Italy.
 <br>
