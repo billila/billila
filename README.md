@@ -5,7 +5,7 @@
 * 📊  I did my M.Sc. in Statistical Sciences at University of Padova, Italy.
 <br>
 
-* 🍕  I like hiking, summer and pizza! 
+* 🍕  I like hiking, holiday and pizza! 
 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ilaria-billato/)](https://www.linkedin.com/in/ilaria-billato-4b7ba21b9/) 
@@ -22,4 +22,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ilaria-billato/)](https://www.linkedin.com/in/ilaria-billato-4b7ba21b9/)
 -->
