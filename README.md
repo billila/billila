@@ -1,12 +1,14 @@
 #### Hi, I'm Ilaria 👋
 
-* 🎓  I am doing my PhD in Bioinformatics at University of Padova, Italy.
+* 🎓  I am doing my PhD in Bioinformatics at [Romualdi Lab](https://romualdi.bio.unipd.it/), University of Padova, Italy.
 * 🗽  I'm a visiting PhD Student at [Waldron Lab](https://github.com/waldronlab), CUNY, New York City.
 * 📊  I did my M.Sc. in Statistical Sciences at University of Padova, Italy.
 <br>
 
 * 🍕  I like hiking, summer and pizza! 
-  
+
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ilaria-billato/)](https://www.linkedin.com/in/ilaria-billato-4b7ba21b9/) 
 <!--
 **billila/billila** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
