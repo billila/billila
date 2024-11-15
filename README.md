@@ -1,5 +1,12 @@
-## Hi there 👋
+#### Hi, I'm Ilaria 👋
 
+* 🎓  I am doing my PhD in Bioinformatics at University of Padova, Italy.
+* 🗽  I'm a visiting PhD Student at [Waldron Lab](https://github.com/waldronlab), CUNY, New York City.
+* 📊  I did my M.Sc. in Statistical Sciences at University of Padova, Italy.
+<br>
+
+* 🍕  I like hiking, summer and pizza ! 
+  
 <!--
 **billila/billila** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
