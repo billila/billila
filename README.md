@@ -5,10 +5,9 @@
 * 📊  I did my M.Sc. in Statistical Sciences at University of Padova, Italy.
 <br>
 
-* 🍕  I like hiking, holiday and pizza! 
+🥾🌄🍕  I like hiking, holidays and pizza! 
 
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ilaria-billato/)](https://www.linkedin.com/in/ilaria-billato-4b7ba21b9/) 
 <!--
 **billila/billila** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
