@@ -5,7 +5,7 @@
 * 📊  I did my M.Sc. in Statistical Sciences at University of Padova, Italy.
 <br>
 
-🥾🌄🍕  I like hiking, holidays and pizza! 
+* ✨ I like hiking, holidays and pizza! 🥾🌄🍕  
 
 
 <!--
